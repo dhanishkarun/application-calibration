@@ -1,0 +1,3 @@
+101.0|102.0|80.0|103.0|4.14|0.175|
+
+sbo_rflevel|csb_mod%|monitor_sdm|csb_rflevel|Power_watt|Monitor_width_reading
