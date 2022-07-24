@@ -1,0 +1,3 @@
+9.0|150|0|
+
+sbo_rflevel_db|Base_ddm|Monitor_width_reading
